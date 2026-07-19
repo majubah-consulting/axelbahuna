@@ -21,14 +21,14 @@ Puis ouvrir `http://localhost:8000`.
 
 ## Avant la mise en ligne
 
-1. Compléter les mentions légales avec l’identité du responsable de publication et l’hébergeur.
+1. Ajouter l’adresse postale de Majubah Consulting aux mentions légales lorsqu’elle sera confirmée.
 2. Vérifier les titres, dates, dimensions et techniques des œuvres.
 3. Vérifier l’autorisation de publication des photos où figurent des tiers.
-4. Connecter le domaine `axelbahuna.fr` à l’hébergement retenu.
+4. Connecter le domaine `axelbahuna.fr` à GitHub Pages.
 
 ## Déploiement
 
-Le projet fonctionne sur GitHub Pages, Cloudflare Pages, Netlify, Vercel ou tout hébergement statique.
+Le projet est destiné à être publié avec GitHub Pages.
 
 ## Sources
 
